@@ -1,0 +1,6 @@
+baseurl: /nourishology
+url: https://lmchristensen23.github.io/
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://lmchristensen23.github.io/nourishology'
+  media: 'images'
