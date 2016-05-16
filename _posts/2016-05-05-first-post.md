@@ -7,7 +7,4 @@ Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds
 
 Testing some edits from prose.io
 
-![WDF_705293.jpg]({{site.baseurl}}/images/WDF_705293.jpg)
-
-
 Source / Read more [Wikipedia](https://en.wikipedia.org/wiki/Coffee).
