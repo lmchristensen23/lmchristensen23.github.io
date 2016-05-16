@@ -9,6 +9,6 @@ Testing some edits from prose.io
 
 And adding a picture:
 
-![latte]https://www.deafcancoffee.com/images/portfolio/coffee.jpg)
+![latte](/https://www.deafcancoffee.com/images/portfolio/coffee.jpg)
 
 Source / Read more [Wikipedia](https://en.wikipedia.org/wiki/Coffee).
