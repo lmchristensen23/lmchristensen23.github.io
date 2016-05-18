@@ -1932,6 +1932,14 @@
 				.icon.circle.fa-pinterest:hover {
 					background: #bf3238;
 				}
+				
+			.icon.circle.fa-envelope {
+				background: #83d3c9;
+				color: #fff;
+			}
+				.icon.circle.fa-envelope:hover {
+					background: #8a41dd;
+				}
 
 		.icon.featured {
 			cursor: default;
